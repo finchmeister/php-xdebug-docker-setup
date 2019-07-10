@@ -40,4 +40,4 @@ And for CLIs, with the environment variables set in the compose file, it should 
 docker-compose exec php-fpm php cli-xdebug.php
 ```
 
-Happy debugging! :mag: :bug:
+Happy debugging! :bug: :mag:
